@@ -56,7 +56,7 @@ const Cantadaamorosa = () => {
     ]
 
     // const formCantada = nome + ", " + cantadas[0]
-    const[frase, setfrases] = useState("Coloqu o nome do seu crush e veja a magia acontecer💘✨");
+    const[frase, setfrases] = useState("Coloque o nome do seu crush e veja a magia acontecer💘✨");
     const numFrase = Math.floor(Math.random() * 50)
 
     const verificanome = () => {
